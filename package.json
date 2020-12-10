@@ -1,5 +1,5 @@
 {
-  "name": "react-ivity",
+  "name": "react-reactivity",
   "version": "1.0.0",
   "description": "Use Vue3 Composition Api in React, just import @vue/reactivity",
   "main": "lib/index.js",
